@@ -107,7 +107,7 @@ public class InvalidConfigurationHeaderException : Exception
 }
 
 /*
-Input file should have the following formating (excluding the spaces which are there for readability)
+Input file should have the following formating
 
 FILE FORMAT:
 Line 0: [Distance];[Angle];[Initial Sentence];[Number of Steps]

@@ -12,3 +12,4 @@
 /Users/vojtechproschl/RiderProjects/NPRG031 - L Systems/NPRG031 - L Systems/obj/Debug/net8.0/NPRG031 - L Systems.pdb
 /Users/vojtechproschl/RiderProjects/NPRG031 - L Systems/NPRG031 - L Systems/obj/Debug/net8.0/NPRG031 - L Systems.genruntimeconfig.cache
 /Users/vojtechproschl/RiderProjects/NPRG031 - L Systems/NPRG031 - L Systems/obj/Debug/net8.0/ref/NPRG031 - L Systems.dll
+/Users/vojtechproschl/RiderProjects/NPRG031 - L Systems/NPRG031 - L Systems/obj/Debug/net8.0/NPRG031 - L Systems.sourcelink.json

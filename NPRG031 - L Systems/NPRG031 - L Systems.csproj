@@ -8,8 +8,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Test Data\" />
-    </ItemGroup>
-
 </Project>
