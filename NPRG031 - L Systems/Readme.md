@@ -7,8 +7,6 @@
 
 ---
 
-### Abstract
-
 Main resources: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop) and [Wikipedia](https://www.wikipedia.org)
 
 ## User Documentation
@@ -25,7 +23,7 @@ $$
 $$
 where
 $$
-\Sigma=\mathrm{ASCIISymbols} \setminus \{';','\,'\}
+\Sigma=\mathrm{ASCIISymbols} \setminus (\text{WhiteSymbols}\cup \{;\})
 $$
 Also in the entire system, there can be at most single rule for each symbol.
 

@@ -6,7 +6,7 @@ public record class ModelConfiguration
     public string derivedSentence { get; set; } = new("");
     public uint stepCount { get; set; } = 0;
     public float distance { get; set; } = 1;
-    public float angle { get; set; } = float.Pi / 4;
+    public float angle { get; set; } = float.Pi / 8;
     public LSystem lSystem { get; set; } = new();
 
     public ModelConfiguration(string axiom, string derivedSentence, uint stepCount, float distance, float angle, LSystem lSystem)
